@@ -1,5 +1,5 @@
 {
-    "Name": "fMRIPrep - fMRI PREProcessing workflow - Functional outputs",
+    "Name": "GRMPY: fMRIPrep Functional Derivatives",
     "Authors": [
         "S. Parker Singleton",
         "Brooke L. Sevchik",
@@ -40,7 +40,7 @@
             "DOI": ""
         }
     ],
-    "License": "MIT",
+    "License": "CC0",
     "DatasetLinks": {
         "raw": "/scratch/grmpy/SLURM_11187497_1/job-11187497-1-sub-102041/ds/inputs/data/BIDS",
         "templateflow": "https://github.com/templateflow/templateflow"
