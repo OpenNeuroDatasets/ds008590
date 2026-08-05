@@ -44,5 +44,6 @@
     "DatasetLinks": {
         "raw": "/scratch/grmpy/SLURM_11187497_1/job-11187497-1-sub-102041/ds/inputs/data/BIDS",
         "templateflow": "https://github.com/templateflow/templateflow"
-    }
+    },
+    "DatasetDOI": "doi:10.18112/openneuro.ds008590.v1.0.0"
 }
