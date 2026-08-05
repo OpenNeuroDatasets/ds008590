@@ -1,0 +1,19 @@
+{
+  "AnatomicalReference": "sub-93734_ses-1_fmapid-fMRI_desc-magnitude_fieldmap.nii.gz",
+  "AssociatedCoefficients": [
+    "sub-93734_ses-1_fmapid-fMRI_desc-coeff_fieldmap.nii.gz"
+  ],
+  "B0FieldIdentifier": "fMRI",
+  "IntendedFor": [
+    "ses-1/func/sub-93734_ses-1_task-face_acq-singleband_bold.nii.gz",
+    "ses-1/func/sub-93734_ses-1_task-fracback_acq-singleband_bold.nii.gz",
+    "ses-1/func/sub-93734_ses-1_task-rest_acq-multiband_bold.nii.gz",
+    "ses-1/func/sub-93734_ses-1_task-rest_acq-singleband_bold.nii.gz"
+  ],
+  "RawSources": [
+    "/scratch/grmpy/SLURM_11187497_204/job-11187497-204-sub-93734/ds/inputs/data/BIDS/sub-93734/ses-1/fmap/sub-93734_ses-1_acq-VARIANTMultibandAccelerationFactor2_magnitude1.nii.gz",
+    "/scratch/grmpy/SLURM_11187497_204/job-11187497-204-sub-93734/ds/inputs/data/BIDS/sub-93734/ses-1/fmap/sub-93734_ses-1_magnitude2.nii.gz",
+    "/scratch/grmpy/SLURM_11187497_204/job-11187497-204-sub-93734/ds/inputs/data/BIDS/sub-93734/ses-1/fmap/sub-93734_ses-1_phasediff.nii.gz"
+  ],
+  "Units": "Hz"
+}
