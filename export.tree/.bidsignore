@@ -1,0 +1,17 @@
+*.html
+log
+logs
+figures
+*_xfm.*
+*.surf.gii
+*_boldref.*
+*_bold.func.gii
+*_mixing.tsv
+*_timeseries.*
+*T2starmap*
+*_fieldmap.*
+*space-*
+*.shape.gii
+*mask.nii.gz
+*mask.json
+*mask.label.gii
