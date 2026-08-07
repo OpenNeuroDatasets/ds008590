@@ -40,9 +40,10 @@
             "DOI": ""
         }
     ],
-    "License": "MIT",
+    "License": "CC0",
     "DatasetLinks": {
         "raw": "https://openneuro.org/datasets/ds008579",
         "templateflow": "https://github.com/templateflow/templateflow"
-    }
+    },
+    "DatasetDOI": "doi:10.18112/openneuro.ds008590.v1.0.1"
 }
